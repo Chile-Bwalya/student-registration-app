@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ICT361_student_registration"
+rootProject.name = "student-registration-app"
 include(":app")
